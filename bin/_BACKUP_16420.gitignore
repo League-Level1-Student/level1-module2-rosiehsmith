@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 /TeaParty.class
 /TeaPartyTest.class
+=======
 /Cup.class
 /Kettle$Water.class
 /Kettle.class
@@ -19,3 +21,4 @@
 /PigDriver.class
 /MinionTest.class
 /Minion.class
+>>>>>>> 390d681080931a5b7c7f2b07bf7545589e90be42
